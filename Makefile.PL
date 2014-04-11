@@ -38,10 +38,12 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "TEST_REQUIRES" => {},
-  "VERSION" => "0.141010",
+  "TEST_REQUIRES" => {
+    "Test::More" => 0
+  },
+  "VERSION" => "0.141011",
   "test" => {
-    "TESTS" => ""
+    "TESTS" => "t/*.t"
   }
 );
 
@@ -54,6 +56,7 @@ my %FallbackPrereqs = (
   "Moo" => 0,
   "MooX::Cmd" => 0,
   "MooX::Options" => 0,
+  "Test::More" => 0,
   "Text::Unaccent::PurePerl" => 0,
   "Types::Standard" => 0,
   "pQuery" => 0,

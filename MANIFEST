@@ -14,3 +14,4 @@ lib/MediaWikiUtils/Cmd/Convert.pm
 lib/MediaWikiUtils/Cmd/ImportExport.pm
 lib/MediaWikiUtils/Common.pm
 lib/MediaWikiUtils/Convert.pm
+t/00-load.t

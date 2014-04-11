@@ -4,6 +4,7 @@ author:
   - 'Natal Ngétal'
 build_requires:
   Module::Build: 0.3601
+  Test::More: 0
 configure_requires:
   ExtUtils::MakeMaker: 6.30
   Module::Build: 0.3601
@@ -26,4 +27,4 @@ requires:
   pQuery: 0
   strict: 0
   warnings: 0
-version: 0.141010
+version: 0.141011

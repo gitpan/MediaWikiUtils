@@ -8,7 +8,7 @@
 #
 package MediaWikiUtils::Cmd::Convert;
 {
-  $MediaWikiUtils::Cmd::Convert::VERSION = '0.141010';
+  $MediaWikiUtils::Cmd::Convert::VERSION = '0.141011';
 }
 
 use strict;
@@ -111,7 +111,7 @@ MediaWikiUtils::Cmd::Convert - A tools provide few method to convert MediaWiki t
 
 =head1 VERSION
 
-version 0.141010
+version 0.141011
 
 =head1 SYNOPSIS
 

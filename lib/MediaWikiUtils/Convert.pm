@@ -8,7 +8,7 @@
 #
 package MediaWikiUtils::Convert;
 {
-  $MediaWikiUtils::Convert::VERSION = '0.141010';
+  $MediaWikiUtils::Convert::VERSION = '0.141011';
 }
 
 use strict;
@@ -107,7 +107,7 @@ MediaWikiUtils::Convert - A tools provide few method to convert MediaWiki to ano
 
 =head1 VERSION
 
-version 0.141010
+version 0.141011
 
 =head1 AUTHOR
 
