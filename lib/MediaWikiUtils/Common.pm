@@ -8,7 +8,7 @@
 #
 package MediaWikiUtils::Common;
 {
-  $MediaWikiUtils::Common::VERSION = '0.141011';
+  $MediaWikiUtils::Common::VERSION = '0.141410';
 }
 
 use strict;
@@ -87,7 +87,7 @@ MediaWikiUtils::Common
 
 =head1 VERSION
 
-version 0.141011
+version 0.141410
 
 =head1 AUTHOR
 

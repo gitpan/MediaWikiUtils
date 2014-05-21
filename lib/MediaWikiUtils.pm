@@ -8,7 +8,7 @@
 #
 package MediaWikiUtils;
 {
-  $MediaWikiUtils::VERSION = '0.141011';
+  $MediaWikiUtils::VERSION = '0.141410';
 }
 
 use strict;
@@ -39,7 +39,7 @@ MediaWikiUtils - A tools provide few useful MediaWiki operation
 
 =head1 VERSION
 
-version 0.141011
+version 0.141410
 
 =head1 SYNOPSIS
 

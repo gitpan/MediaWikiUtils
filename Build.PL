@@ -19,7 +19,7 @@ my %module_build_args = (
     "Natal Ng\x{e9}tal"
   ],
   "dist_name" => "MediaWikiUtils",
-  "dist_version" => "0.141011",
+  "dist_version" => "0.141410",
   "license" => "perl",
   "module_name" => "MediaWikiUtils",
   "recommends" => {},
@@ -37,9 +37,7 @@ my %module_build_args = (
     "strict" => 0,
     "warnings" => 0
   },
-  "script_files" => [
-    "bin/mwu"
-  ],
+  "script_files" => [],
   "test_requires" => {
     "Test::More" => 0
   }

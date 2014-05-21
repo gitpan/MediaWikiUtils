@@ -8,7 +8,7 @@
 #
 package MediaWikiUtils::Cmd::ImportExport;
 {
-  $MediaWikiUtils::Cmd::ImportExport::VERSION = '0.141011';
+  $MediaWikiUtils::Cmd::ImportExport::VERSION = '0.141410';
 }
 
 use strict;
@@ -55,7 +55,7 @@ MediaWikiUtils::Cmd::ImportExport - A tools to provides command to import and ex
 
 =head1 VERSION
 
-version 0.141011
+version 0.141410
 
 =head1 SYNOPSIS
 

@@ -20,9 +20,7 @@ my %WriteMakefileArgs = (
     "Module::Build" => "0.3601"
   },
   "DISTNAME" => "MediaWikiUtils",
-  "EXE_FILES" => [
-    "bin/mwu"
-  ],
+  "EXE_FILES" => [],
   "LICENSE" => "perl",
   "NAME" => "MediaWikiUtils",
   "PREREQ_PM" => {
@@ -41,7 +39,7 @@ my %WriteMakefileArgs = (
   "TEST_REQUIRES" => {
     "Test::More" => 0
   },
-  "VERSION" => "0.141011",
+  "VERSION" => "0.141410",
   "test" => {
     "TESTS" => "t/*.t"
   }
